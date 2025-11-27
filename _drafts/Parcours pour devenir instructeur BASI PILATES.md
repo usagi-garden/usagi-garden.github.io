@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # 🐰 Studio Rituel × BASI Comprehensive  
 Pilates Study Plan — 600h BASI Comprehensive (Studio Rituel, Paris)
 
