@@ -614,7 +614,7 @@ Tu places les mains devant les cuisses, très doucement. Tu vas allonger les jam
 (Objectrif : Stabiliser la ceinture scapulaire ; Travailler les triceps et les deltoïdes（三角肌）; Garder une colonne longue en auto-grandissement ; Engager le centre sans bouger le bassin ; Coordonner bras + respiration ; Améliorer la précision du mouvement avec le ballon)
 
 <p align="center">
-  <img src="/assets/images/pilates photos/deltoïdes.png" width="500">
+  <img src="/assets/images/pilates photos/deltoides.png" width="500">
 </p>
 
 <audio controls>
