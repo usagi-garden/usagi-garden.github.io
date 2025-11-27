@@ -15,7 +15,7 @@
 </div>
 
 <!-- Body -->
-<div class="usagi-card" onclick="location.href='posts/body/Parcours%20pour%20devenir%20instructeur%20BASI%20PILATES/'">
+<div class="usagi-card" onclick="location.href='posts/body/Pilates mat niveaux 1 - Pelvic Placement on small Ball/'">
     <img class="usagi-icon" src="/assets/icons/body.svg">
     <h3>Body</h3>
     <p>脚踩缝纫机…</p>
