@@ -1,16 +1,19 @@
 /***************************************
  * 1. 字体配置（Google Fonts 载入）
  ***************************************/
-@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&display=swap");
+
 
 /***************************************
- * 2. 全站字体变量（正文 & 代码）
+ * 2. 全站字体变量（Nunito > WenKai）
  ***************************************/
 :root {
-  --text-font: "Lora", "LXGW WenKai TC", serif;
+  /* 全站文本字体：英文优先 Nunito，中文 fallback WenKai */
+  --text-font: "Nunito", "LXGW WenKai TC", sans-serif;
+
+  /* 代码区仍然使用 Fira Code */
   --code-font: "Fira Code", monospace;
 
   /* 🍃 Usagi Garden Lime 主色 */
@@ -24,12 +27,14 @@
 }
 
 /***************************************
- * 3. 左上角标题（Usagi Garden）可爱字体
+ * 3. 左上角标题（Usagi Garden）
+ *    英文用 Nunito，中文用 WenKai
  ***************************************/
-.md-header__title,
+ 
 .md-header__title a,
+.md-header__title,
 .md-header__ellipsis span {
-  font-family: "Baloo 2", sans-serif !important;
+  font-family: "Nunito", "LXGW WenKai TC", sans-serif !important;
   font-weight: 600;
 }
 
@@ -50,20 +55,29 @@
   filter: brightness(10);
 }
 
-/***********************************
- * 2. 全站字体
- ***********************************/
+/***************************************
+ * 6. 全站正文 & 标题字体
+ ***************************************/
 body,
 .md-typeset {
   font-family: var(--text-font) !important;
 }
 
-.md-typeset h1, h2, h3, h4, h5, h6 {
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
   font-family: var(--text-font) !important;
   font-weight: 600;
 }
 
-code, pre {
+/***************************************
+ * 7. 代码区字体
+ ***************************************/
+code,
+pre {
   font-family: var(--code-font) !important;
 }
 
