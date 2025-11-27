@@ -1,22 +1,53 @@
-/***********************************
- * 1. 字体配置 
- ***********************************/
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap');
+/***************************************
+ * 1. 字体配置（Google Fonts 载入）
+ ***************************************/
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&display=swap");
 
+/***************************************
+ * 2. 全站字体变量（正文 & 代码）
+ ***************************************/
 :root {
   --text-font: "Lora", "LXGW WenKai TC", serif;
   --code-font: "Fira Code", monospace;
 
-  /* 🍃 Usagi Lime（与 header 完全一致的绿） */
+  /* 🍃 Usagi Garden Lime 主色 */
   --usagi-lime: #d3e246;
-  --usagi-lime-soft: rgba(211,226,70,0.22);
-  --usagi-lime-border: rgba(211,226,70,0.45);
+  --usagi-lime-soft: rgba(211, 226, 70, 0.22);
+  --usagi-lime-border: rgba(211, 226, 70, 0.45);
 
-  /* Dark mode lime */
+  /* 🍃 Dark Mode 下的 Lime */
   --usagi-lime-dark: #c4d653;
-  --usagi-lime-dark-soft: rgba(196,214,83,0.22);
+  --usagi-lime-dark-soft: rgba(196, 214, 83, 0.22);
+}
+
+/***************************************
+ * 3. 左上角标题（Usagi Garden）可爱字体
+ ***************************************/
+.md-header__title,
+.md-header__title a,
+.md-header__ellipsis span {
+  font-family: "Baloo 2", sans-serif !important;
+  font-weight: 600;
+}
+
+/***************************************
+ * 4. Dark Mode 的标题变白
+ ***************************************/
+[data-md-color-scheme="slate"] .md-header__title,
+[data-md-color-scheme="slate"] .md-header__title a,
+[data-md-color-scheme="slate"] .md-header__ellipsis span {
+  color: #ffffff !important;
+}
+
+/***************************************
+ * 5. Dark Mode：logo（兔子）提亮
+ ***************************************/
+[data-md-color-scheme="slate"] .md-header__button.md-logo img,
+[data-md-color-scheme="slate"] .md-header__button.md-logo svg {
+  filter: brightness(10);
 }
 
 /***********************************
