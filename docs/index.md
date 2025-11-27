@@ -1,28 +1,40 @@
-# Welcome to Usagi Garden
-
+# :sparkles:
 
 !!! note
-    This is your blog homepage. Edit this file to customize your welcome message!
+    this rabbit is seriously learning Pilates.
 
-RABBIT CUTE !!! !!
+<div class="usagi-home">
 
-### :ocean: Reflections
+<div class="usagi-card-grid">
 
-- **2025-11-09 :sparkles: [Welcome to My Blog](posts/reflections/welcome.md)**
+<!-- Food -->
+<div class="usagi-card" onclick="location.href='posts/food/Olivia 的甜品转型路径/'">
+    <img class="usagi-icon" src="/assets/icons/food.svg">
+    <h3>Food</h3>
+    <p>卷心菜炖肉卷…</p>
+</div>
 
-### :books: Reading Notes
+<!-- Body -->
+<div class="usagi-card" onclick="location.href='posts/body/Parcours%20pour%20devenir%20instructeur%20BASI%20PILATES/'">
+    <img class="usagi-icon" src="/assets/icons/body.svg">
+    <h3>Body</h3>
+    <p>脚踩缝纫机…</p>
+</div>
 
-- **2025-11-09 :book: [Sample Book Review](posts/books/sample-book-review.md)**
+<!-- Mind -->
+<div class="usagi-card" onclick="location.href='posts/mind/俄狄浦斯情结/'">
+    <img class="usagi-icon" src="/assets/icons/mind.svg">
+    <h3>Mind</h3>
+    <p>灵魂下午茶…</p>
+</div>
 
----
+<!-- Books -->
+<div class="usagi-card" onclick="location.href='posts/books/论语别裁/'">
+    <img class="usagi-icon" src="/assets/icons/books.svg">
+    <h3>Books</h3>
+    <p>咔咔咔…</p>
+</div>
 
-## About Me
+</div>
 
-Write a brief introduction about yourself here. What are you passionate about? What will you write about on this blog?
-
-## How to Update This Page
-
-1. Edit `docs/index.md` to customize this homepage
-2. Add new posts to `docs/posts/reflections/` or `docs/posts/books/`
-3. Update the lists above with links to your new posts
-4. Use emojis from [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+</div>

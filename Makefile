@@ -1,7 +1,7 @@
 .PHONY: serve build clean help
 
 serve:
-	poetry run mkdocs serve
+	poetry run mkdocs serve  --livereload
 
 build:
 	poetry run mkdocs build

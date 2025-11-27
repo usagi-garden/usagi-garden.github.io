@@ -1,0 +1,272 @@
+/***********************************
+ * 1. 字体配置 
+ ***********************************/
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&display=swap');
+
+:root {
+  --text-font: "Lora", "LXGW WenKai TC", serif;
+  --code-font: "Fira Code", monospace;
+
+  /* 🍃 Usagi Lime（与 header 完全一致的绿） */
+  --usagi-lime: #d3e246;
+  --usagi-lime-soft: rgba(211,226,70,0.22);
+  --usagi-lime-border: rgba(211,226,70,0.45);
+
+  /* Dark mode lime */
+  --usagi-lime-dark: #c4d653;
+  --usagi-lime-dark-soft: rgba(196,214,83,0.22);
+}
+
+/***********************************
+ * 2. 全站字体
+ ***********************************/
+body,
+.md-typeset {
+  font-family: var(--text-font) !important;
+}
+
+.md-typeset h1, h2, h3, h4, h5, h6 {
+  font-family: var(--text-font) !important;
+  font-weight: 600;
+}
+
+code, pre {
+  font-family: var(--code-font) !important;
+}
+
+/***********************************
+ * 3. 左侧标题隐藏
+ ***********************************/
+.md-nav__title {
+  display: none !important;
+}
+
+/***********************************
+ * 4. 阅读模式
+ ***********************************/
+body.reading-mode .md-header,
+body.reading-mode .md-sidebar--primary,
+body.reading-mode .md-sidebar--secondary {
+  display: none !important;
+}
+
+body.reading-mode .md-main__inner {
+  max-width: 1500px !important;
+  padding: 2rem !important;
+}
+
+body.reading-mode .md-content {
+  max-width: 1500px !important;
+}
+
+body.reading-mode .md-content__inner {
+  border-radius: 18px;
+  padding: 2.5rem 3rem !important;
+  backdrop-filter: blur(12px);
+}
+
+#lotus-toggle {
+  position: fixed;
+  bottom: 40px;
+  right: 32px;
+  z-index: 99999;
+  font-size: 24px;
+  background: rgba(255,255,255,0.7);
+  border-radius: 14px;
+  padding: 10px 14px;
+  backdrop-filter: blur(10px);
+  border: none;
+  cursor: pointer;
+}
+
+/***********************************
+ * 5. 首页四格卡片
+ ***********************************/
+.usagi-home .usagi-card-grid {
+  margin-top: 2.2rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.6rem;
+}
+
+.usagi-home .usagi-card {
+  background: rgba(255,255,255,0.78);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 1.8rem 1.2rem;
+  text-align: center;
+  transition: all .25s ease;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.usagi-home .usagi-icon {
+  width: 52px;
+  height: 52px;
+  margin-bottom: 0.9rem;
+  opacity: 0.85;
+}
+
+/******** Light mode hover *******/
+[data-md-color-scheme="default"] .usagi-home .usagi-card:hover {
+  border: 1px solid var(--usagi-lime-border);
+  background: rgba(211,226,70,0.20);
+  box-shadow:
+    0 3px 12px var(--usagi-lime-soft),
+    0 0 12px var(--usagi-lime-soft);
+  transform: translateY(-2px);
+}
+
+[data-md-color-scheme="default"] .usagi-home .usagi-card:hover h3,
+[data-md-color-scheme="default"] .usagi-home .usagi-card:hover p {
+  color: #6b7e2c !important;
+}
+
+[data-md-color-scheme="default"] .usagi-home .usagi-card:hover .usagi-icon {
+  filter: brightness(1.15) saturate(1.1);
+}
+
+/***********************************
+ * 6. NOTE — 绿色版（不使用四叶草，无额外图标）
+ ***********************************/
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border: 2px solid var(--usagi-lime-border) !important;
+  border-left: 6px solid var(--usagi-lime) !important;
+  background: rgba(255,255,255,0.72) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 0 0 2px var(--usagi-lime-soft) !important;
+  backdrop-filter: blur(6px);
+}
+
+/* NOTE标题文字 */
+.md-typeset .admonition.note > .admonition-title {
+  color: #5a6b28 !important;
+  background: transparent !important;
+  font-weight: 600 !important;
+}
+
+/* ❗修改 NOTE 默认图标颜色为绿色（不删除，不换图标） */
+.md-typeset .admonition.note > .admonition-title::before {
+  color: #6b7e2c !important;
+  background-color: var(--usagi-lime) !important;
+}
+
+/***********************************
+ * 7. 首页隐藏右栏
+ ***********************************/
+.page-home .md-sidebar--secondary {
+  display: none !important;
+}
+
+/***********************************
+ * 8. DARK MODE
+ ***********************************/
+[data-md-color-scheme="slate"] {
+
+  /* Header */
+  .md-header {
+    background: rgba(20,20,22,0.58) !important;
+    backdrop-filter: blur(12px);
+  }
+
+  /* 左侧导航 */
+  .md-sidebar--primary .md-nav__link {
+    color: #e8e8e8 !important;
+  }
+  .md-sidebar--primary .md-nav__link:hover {
+    color: var(--usagi-lime-dark) !important;
+  }
+
+  /* 卡片 */
+  .usagi-home .usagi-card {
+    background: rgba(255,255,255,0.06) !important;
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.38);
+  }
+
+  .usagi-home .usagi-card:hover {
+    border: 1px solid var(--usagi-lime-dark);
+    background: rgba(211,226,70,0.16);
+    box-shadow:
+      0 0 14px var(--usagi-lime-dark-soft),
+      0 0 26px var(--usagi-lime-dark-soft);
+  }
+
+  .usagi-home .usagi-card h3,
+  .usagi-home .usagi-card p {
+    color: #eaeaea !important;
+  }
+
+  /* NOTE 深色版 */
+  .md-typeset .admonition.note {
+    background: rgba(35,35,38,0.63) !important;
+    border-left-color: var(--usagi-lime-dark) !important;
+    border: 2px solid var(--usagi-lime-dark-soft) !important;
+    box-shadow: 0 0 0 2px rgba(211,226,70,0.15) !important;
+  }
+
+  .md-typeset .admonition.note > .admonition-title {
+    color: #dfe8c5 !important;
+  }
+
+  .md-typeset .admonition.note > .admonition-title::before {
+    color: var(--usagi-lime-dark) !important;
+    background-color: rgba(211,226,70,0.18) !important;
+  }
+
+  /* 文本亮度 */
+  .md-typeset {
+    color: #f2f2f2 !important;
+  }
+}
+
+/***********************************
+ * 9. 阅读模式 SVG 修复
+ ***********************************/
+body.reading-mode img,
+body.reading-mode svg {
+  background: transparent !important;
+  box-shadow: none !important;
+  fill: currentColor !important;
+}
+
+
+/***********************************
+ * 9. LOGO 修复
+ ***********************************/
+.md-header .md-logo img {
+    height: 35px !important;
+    width: auto !important;
+    margin-top: -4px;
+}
+
+/********************************************
+ * B. 首页四叶草居中美化
+ ********************************************/
+
+/* 限定只作用首页（即 h1 内只有一个 emoji 的情况） */
+.md-content h1 img.twemoji {
+  display: block;
+  margin: 0 auto !important;   /* 水平居中 */
+  width: 48px !important;      /* 稍微放大，之前 ~48px */
+  height: auto;
+  margin-top: 1.6rem !important;
+  margin-bottom: 1rem !important;
+  opacity: 0.92;               /* 更自然柔和 */
+}
+
+/* Dark 模式下的四叶草颜色稍微柔一点 */
+[data-md-color-scheme="slate"] .md-content h1 img.twemoji {
+  opacity: 0.85;
+}
+
+/* 去掉首页 h1 本身的多余间距 */
+.md-content h1 {
+  text-align: center !important;
+  margin-bottom: 0.4rem !important;
+  margin-top: 0.4rem !important;
+}
+

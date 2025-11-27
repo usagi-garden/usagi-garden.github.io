@@ -1,77 +1,93 @@
 # MkDocs Configuration
-# Update 'site_name' to change the title displayed on your blog
 site_name: Usagi Garden
 
 plugins:
   - blog:
       archive: false
-      post_url_date_format: yyyy/MM/dd  # URL format for blog posts
+      post_url_date_format: yyyy/MM/dd
+      post_url_format: "{slug}"
       blog_dir: posts
+      categories: true
+
   - redirects:
       redirect_maps:
         'posts/index.md': 'index.md'
-  - search
+
+  - search:
+      lang:
+        - en
+        - zh
+
   - git-revision-date-localized:
       enable_creation_date: true
-      type: timeago  # Shows "2 days ago" style timestamps
+      type: timeago
+
 
 theme:
-  features:
-    - content.tooltips
-    - toc.follow
-  font:
-    text: Roboto Mono  # Change this to your preferred font
   name: material
-  # Update logo URL or use local path: assets/logo.png
-  logo: https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlob2FtN29zamx5ZXQ3bnU2eG9weWFtMDRjaTMyN2xtbWhvM2FqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzmdjqH15YebLQ52/giphy.gif
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+    - content.tabs
+    - content.tooltips
+    - content.blog
+
+  # 字体、主题、logo
+  font:
+    text: Roboto Mono
+  logo: assets/images/rabbit.gif
+
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: lime  # Theme color
+      primary: lime
       scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: lime  # Theme color
+      primary: lime
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
-# Footer configuration
+extra_css:
+  - assets/css/bg.css
+  - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+  - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+
 extra:
   generator: false
-  # To enable Google Analytics:
-  # 1. Sign up at https://analytics.google.com/
-  # 2. Uncomment the lines below and add your tracking ID
-  # analytics:
-  #   provider: google
-  #   property: G-XXXXXXXXXX
-  copyright: Copyright &copy; 2025 Usagi Garden
+  copyright: Copyright © 2025 Usagi Garden
 
-# Markdown extensions - these enable additional formatting features
 markdown_extensions:
   - abbr
   - attr_list
-  - admonition           # Callout boxes
+  - md_in_html
+  - tables
+  - admonition
   - pymdownx.snippets
   - pymdownx.details
-  - footnotes            # Footnote support
+  - footnotes
   - pymdownx.superfences:
       custom_fences:
-      - name: mermaid    # Diagram support
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.emoji:      # Emoji support :smile:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.arithmatex: # Math notation support
+  - pymdownx.arithmatex:
       generic: true
 
-# JavaScript for math rendering
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/reading-mode.js
