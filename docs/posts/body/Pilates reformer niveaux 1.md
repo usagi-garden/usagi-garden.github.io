@@ -2,69 +2,56 @@
 
 ## 1.1 Installation & rappel sur la machine
 
+<audio controls>
+  <source src="/assets/audio/reformer-delphine/1.1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 Petit rappel pour la machine :
-Tu as l’esplug ici, la barre se soulève par le haut.
-Il y a le petit creux — numéro 1, numéro 2, numéro 3.
-Deux tailles de sangles : les petites pour les mains, les grandes pour les pieds.
+
+Tu as la barre de pied ici, elle se soulève par le haut; Il y a le petit creux — numéro 1, numéro 2, numéro 3 ; et deux tailles de sangles : les petites pour les mains, les grandes pour les pieds.
 
 Je vais maintenant mettre un peu de footwork.
 
 ## 1.2 Comment s’allonger correctement sur la machine
 
-Il y a une manière importante de s’allonger et de s’asseoir sur la machine. Une fois qu’on l’a, on la répète facilement.
-	1.	Tu mets tes fesses le plus proche possible des ressorts.
-	2.	Tu poses une main sur la barre.
-	3.	Cette main-là, tu la prends et tu la poses sur ton cou-de-pied / cales-tête.
-	4.	L’autre main glisse dessous.
-	5.	Tu roules, tu roules, tu roules… et tu te retrouves pile sur le dos.
+<audio controls>
+  <source src="/assets/audio/reformer-delphine/1.2.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-Pour redescendre :
-	1.	Tu remets la main croisée sur le cales-tête.
-	2.	Tu prends l’autre main, tu la poses aussi.
-	3.	Tu laisses tomber les genoux d’un côté.
-	4.	Et tu viens t’asseoir.
+Il y a une manière importante de s’allonger et de s’asseoir sur la machine. Une fois qu’on la connaît, on la répète facilement ：Tu mets tes fesses le plus proche possible des **ressorts**(弹簧)； Tu poses une main sur la barre； Cette main-là, tu la prends et tu la poses sur ton cou-de-pied / cales-tête； L’autre main glisse dessous； Tu roules, tu roules… et tu te retrouves pile sur le dos.
 
-On recommence : la main, tu poses — tu roules — tu es allongée. Puis chemin inverse : genoux qui tombent, tu pousses avec la main, tu t’assois.
+Pour descendre c’est le chemin inverse : Tu remets la main croisée sur le cales-tête； Tu prends l’autre main, tu la poses aussi； Tu laisses tomber les genoux d’un côté； Et tu viens t’asseoir.
 
-C’est comme ça qu’on change les ressorts et qu’on se couche.
+On recommence : la main, tu poses — tu roules — tu es allongée. Puis chemin inverse : genoux qui tombent, tu pousses avec la main, tu t’assois. C’est comme ça qu’on change les ressorts et qu’on se couche.
 
 
 ## 1.3 Placement des pieds
 
+<audio controls>
+  <source src="/assets/audio/reformer-delphine/1.3.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 Allonge-toi.
-On va mettre les pieds sur les talons, largeur d’un poing environ : j’ai pile la place de mettre ma main entre tes deux pieds.
-
-Pour vérifier l’alignement :
-– tu sens l’os au milieu de ta cuisse,
-– tes pieds doivent être alignés avec tes jambes.
-Si tu commences de travers, tu resteras de travers.
-
-Décale un peu tes fesses : voilà, maintenant tu es alignée.
+On va mettre les pieds sur les talons, largeur d’un poing environ j’ai pile la place de mettre ma main entre tes deux pieds. Toi, tu vérifies que tes pieds soient alignés avec tes jambes. Si tu commences de **travers**(歪), tu resteras de travers. Pour vérifier l’alignement : tu sens l’os au milieu de ta cuisse, et tes pieds doivent être alignés avec tes jambes. Décale un peu tes fesses, voilà, maintenant tu es alignée.
 
 
 ## 1.4 Respiration (Pilates latérale)
 
-Pose les mains sur ton ventre. Respiration naturelle d’abord.
+Pose les mains sur ton ventre. Respiration naturelle pour l’instant. Inspire tranquillement par le nez… et souffle par la bouche. Le corps se détend. 
 
-Inspire tranquillement par le nez…
-Souffle par la bouche… Le corps se détend.
+Maintenant, remonte les mains sous ta **poitrine**（胸部）, sur ta **cage thoracique**(肋骨) — sur les petits os qui sortent, c’est ici. En Pilates on n’utilise pas la respiration ventrale, sinon les abdos ne se contractent pas comme on veut. On respire dans la cage.
 
-Maintenant, remonte les mains sous ta poitrine, sur ta cage thoracique — sur les petits os qui sortent, c’est ici.
-
-En Pilates on n’utilise pas la respiration ventrale, sinon les abdos ne se contractent pas comme on veut.
-On respire dans la cage.
-
-Inspire : la cage se soulève.
-Expire : tout rentre.
-Ouvre… referme.
-
-On continue :
+Inspire，la cage se soulève. Expire，tout rentre. Réessaie une respiration pour moi. Inspire, ouvre les côtes, Expire, les côtes se referment et rentrent. Le ventre reste calme. 
 Large à l’inspire, referme intensément à l’expire, chasse tout l’air au maximum.
 
-Maintenant, au lieu de respirer vers l’avant, pense à respirer large, comme si tu voulais étaler ton dos de chaque côté de la machine.
-Respire dans ton dos.
-Encore deux fois.
-Très bien.
+Maintenant, ta main glisse sur ton bassin. Tu sens ici tes petits os qui piquent ? Ce sont tes hanches. Ta colonne lombaire, elle est naturelle, elle n’est pas collée au sol. On va venir bouger le bassin en rétroversion. À l’expire, tes côtes rentrent, et le bas du dos se colle au sol. C’est un petit mouvement, très petit. Inspire, on revient **au neutre** (回到中立骨盆). Expire, rétroverse encore une fois. Les côtes d’abord, puis le bassin. On continue ce mouvement jusqu’à décoller les fesses. Soulève, mais garde le chariot fermé. Inspire en haut, et déroule une vertèbre à la fois. D’abord les omoplates, Puis le milieu du dos, Et enfin le bas du dos. Et replace ton bassin dans son axe. 
+
+Je pense qu’on a un peu **décalé les fesses** (臀部移动了), Maintenant le bassin reste. On a fait **très cambré**（大幅度的前倾） sur le coccyx, Et très **enroulé**（后卷） aussi. Maintenant tu places ton bassin entre les deux, et on garde ça.
+
+
 
 
 ## 1.5 Mobilisation de la colonne (bassin, coccyx)
