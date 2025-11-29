@@ -33,7 +33,7 @@ Juste ça, aucun effort dans le bassin pour l’instant. Entre bien la cage dans
 </p>
 
 <audio controls>
-  <source src="/assets/audio/pelvic-ball-mat-1/Bascules avant-arrière.mp3" type="audio/mpeg">
+  <source src="/assets/audio/pelvic-ball-mat-1/1.2.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
