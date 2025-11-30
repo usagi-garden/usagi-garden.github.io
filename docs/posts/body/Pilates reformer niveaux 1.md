@@ -35,7 +35,7 @@ On recommence : la main, tu poses — tu roules — tu es allongée. Puis chemin
 </audio>
 
 Allonge-toi.
-On va mettre les pieds sur les talons, largeur d’un poing environ j’ai pile la place de mettre ma main entre tes deux pieds. Toi, tu vérifies que tes pieds soient alignés avec tes jambes. Si tu commences de **travers**(歪), tu resteras de travers. Pour vérifier l’alignement : tu sens l’os au milieu de ta cuisse, et tes pieds doivent être alignés avec tes jambes. Décale un peu tes fesses, voilà, maintenant tu es alignée.
+On va mettre les pieds sur les talons, largeur d’un poing environ j’ai pile la place de mettre ma main entre tes deux pieds, On garde ça comme écart. Toi, tu vérifies que tes pieds soient alignés avec tes jambes. Si tu commences de **travers**(歪), tu resteras de travers. Pour vérifier l’alignement : tu sens l’os au milieu de ta cuisse, et tes pieds doivent être alignés avec tes jambes. Décale un peu tes fesses, voilà, maintenant tu es alignée.
 
 
 ## 1.4 Respiration (Pilates latérale)
@@ -45,130 +45,40 @@ Pose les mains sur ton ventre. Respiration naturelle pour l’instant. Inspire t
 Maintenant, remonte les mains sous ta **poitrine**（胸部）, sur ta **cage thoracique**(肋骨) — sur les petits os qui sortent, c’est ici. En Pilates on n’utilise pas la respiration ventrale, sinon les abdos ne se contractent pas comme on veut. On respire dans la cage.
 
 Inspire，la cage se soulève. Expire，tout rentre. Réessaie une respiration pour moi. Inspire, ouvre les côtes, Expire, les côtes se referment et rentrent. Le ventre reste calme. 
-Large à l’inspire, referme intensément à l’expire, chasse tout l’air au maximum.
-
-Maintenant, ta main glisse sur ton bassin. Tu sens ici tes petits os qui piquent ? Ce sont tes hanches. Ta colonne lombaire, elle est naturelle, elle n’est pas collée au sol. On va venir bouger le bassin en rétroversion. À l’expire, tes côtes rentrent, et le bas du dos se colle au sol. C’est un petit mouvement, très petit. Inspire, on revient **au neutre** (回到中立骨盆). Expire, rétroverse encore une fois. Les côtes d’abord, puis le bassin. On continue ce mouvement jusqu’à décoller les fesses. Soulève, mais garde le chariot fermé. Inspire en haut, et déroule une vertèbre à la fois. D’abord les omoplates, Puis le milieu du dos, Et enfin le bas du dos. Et replace ton bassin dans son axe. 
-
-Je pense qu’on a un peu **décalé les fesses** (臀部移动了), Maintenant le bassin reste. On a fait **très cambré**（大幅度的前倾） sur le coccyx, Et très **enroulé**（后卷） aussi. Maintenant tu places ton bassin entre les deux, et on garde ça.
-
-
-
+Large à l’inspire, tu chasses tout l'air de ton corps au maximum. au lieu de respirer vers le haut, tu vas penser à respirer plutôt large, comme si tu voulais étaler ton dos de chaque côté de la machine. Respire un peu dans ton dos, Donc moins vers l'avant, plus sur le côté. ok, tu peux relâcher les mains le long du corps.
 
 ## 1.5 Mobilisation de la colonne (bassin, coccyx)
 
-Relâche les mains.
-
-On va mobiliser le bas de la colonne.
-
-Inspire : tu viens creuser le bas du dos, tu trouves le petit os au bout des fesses — le coccyx.
-Expire : tu enroules le bassin, la colonne s’arrondit.
-
-Inspire, cherche ton coccyx.
-Expire, forme une cuvette.
-
-Combine ça avec la respiration latérale qu’on a vue.
-
-Encore… dernier.
+On va mobiliser le bas de la colonne, on garde au plat. 
+Inspire :  tu vas creuser le bas du dos, tu vas trouver un petit os qui sort des fesses qui fait une petite pointe, il s'appelle le coccyx.
+Expire : tu enroules le bassin, le bassin vers l'avant et la colonne elle s’arrondit.
+Inspire,  viens cherche ton coccyx. Expire, forme une cuvette. Combine ça avec la respiration latérale qu’on a vue. 
 
 ---
 
 ## 2.1 Shoulder Bridge（relevé de bassin）
 
-Garde le bassin enroulé.
-Serre un peu les fesses.
-Décolle le bassin jusqu’en haut — garde la colonne arrondie, puis allonge.
+maintenant tu serres un peu les fesses, et on décolle le bassin jusqu’en haut, garde le rond et monte, regarde les yeux vers le plafond. alors inspire on reste, tu serres les fesses, et à l’expire tu viens déposer tout doucement. D’abord les omoplates, Puis le milieu du dos, Et enfin le bas du dos. tu poses tes fesses et rebasculer ton coccyx.
 
-Regarde le plafond. Inspire, reste, serre les fesses.
-
-Expire : dépose tout doucement
-– les omoplates,
-– le milieu du dos,
-– le bas du dos,
-– puis les fesses,
-et reviens chercher ton coccyx.
-
-On recommence :
-Expire, enroule.
-Monte.
-Toute petite inspire.
-Expire, redescend.
-
-Encore : un peu plus lent pour avoir le temps de placer la respiration.
-
+Expire cœur, connecte les côtes, enroule le bassin. tire vers l’avant, Toute petite inspire, expire déroule. un tout petit peu plus lent, comme ça tu as le temps de placer la respiration. La prochaine fois on va rester en haut.
 
 ## 2.2 Shoulder bridge – version stable
 
-La prochaine fois on reste en haut.
-
-Stabilise ici : il ne doit plus y avoir d’articulation dans le dos, le dos devient une grande planche.
-
-Descends les fesses un tout petit peu vers le bas…
-Et squeeze, remonte.
-
-Sans articuler le dos, comme un flat back.
-Inspire, descends…
-Expire, monte.
-Garde la tête posée.
-
-Inspire, descend.
-Expire, remonte.
-
-Encore trois…
-Et le dernier.
-
-Inspire ici…
-Puis on redescend tout doucement, une vertèbre à la fois :
-omoplates — milieu du dos — bas du dos — puis les fesses.
-Replace le bassin dans son axe.
-
-On avait un peu décalé les fesses : voilà, super.
-
+Stabilisez ici, Il ne va plus avoir d’articulation du dos, Le dos devient une grande planche, On va descendre les fesses un tout petit peu vers le bas. Et squeeze, remonte. head down. Inspire en haut, et déroule une vertèbre à la fois. D’abord les omoplates, Puis le milieu du dos, Et enfin le bas du dos. Et replace ton bassin dans son axe.
 
 ## Bassin neutre + Respiration costale
 
-Maintenant, le bassin reste neutre.
-
-On a exploré :
-– très cambré (sur le coccyx)
-– très enroulé (vers le pubis)
-Maintenant tu viens entre les deux.
-On garde ça.
-
-Le focus reste la même respiration : respiration costale, toujours en haut, jamais dans le ventre.
+Maintenant, le bassin reste neutre. Je pense qu’on a un peu **décalé les fesses** (臀部移动了), Maintenant le bassin reste. On a fait **très cambré**（大幅度的前倾）sur le coccyx, Et très **enroulé**（后卷）vers le pubis aussi. Maintenant tu places ton bassin entre les deux, et on garde ça. le focus c’est la même respiration avec les côtes. toujours en haut, jamais dans le ventre.
 
 ---
 
 ## 3.1 Footwork – Pieds à plat
 
-Place les pieds à plat comme contre un mur.
+On place les pieds à plat comme contre un mur. Inspire ensemble. Expire : connecte les côtes, puis pousse sur tes jambes, laisse partir le chariot. On recommence, Cette fois, on ne lève plus les fesses. Inspire petit. Expire : connecte les côtes… Puis pousse sur la barre. Inspire, revient. Souffle, allonge. Inspire, referme. squeeze les côtes d’abord, puis tends les jambes.
 
-Inspire ensemble.
-Expire : connecte les côtes, puis pousse sur les jambes, laisse partir le chariot.
+Petite correction : Il faut souffler quand les jambes s’allongent. Pour l’instant tu faisais l’inverse. 
 
-On recommence :
-Cette fois, on ne lève plus les fesses.
-
-Inspire petit.
-Expire : connecte les côtes…
-Puis pousse sur la barre.
-
-Inspire, reviens.
-Expire, repousse.
-
-Encore…
-
-Expire : squeeze les côtes d’abord,
-puis tends les jambes.
-
-Petite correction :
-Il faut souffler quand les jambes s’allongent.
-Pour l’instant tu faisais l’inverse.
-
-Inspire — et souffle quand tu tends.
-Très bien.
-
-Encore quelques répétitions…
-Et ton dernier.
+Encore quelques répétitions…Et ton dernier.
 
 
 ## 3.2 Footwork – Sur les orteils
