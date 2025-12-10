@@ -1,4 +1,4 @@
-# Pilates mat niveaux 1 - Pelvic Placement on small Ball
+# Pilates mat niveaux 1 - Pelvic Placement on small Ball avec Anna gaelle
 
 ### 1.1 Mise en place — Placement initial
 （Objectif : Trouver la stabilité du sacrum sur le ballon + activer la respiration latérale 侧向呼吸.）
