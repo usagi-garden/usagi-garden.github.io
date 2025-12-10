@@ -78,7 +78,7 @@ et oui, tu vas monter dans ton pelvic curl.
 
 Tu n’oublies pas de passer par l’étape de rétroversion :
 tu imprimes les lombaires, tu enroules le bassin,
-tu presses bien les pieds dans le sol et tu montes plus haut.
+tu presses bien les pieds dans le sol et tu montes au plus haut.
 
 On s’attend tout en haut.
 Voilà — donc là ton bassin est surélevé.
@@ -95,7 +95,7 @@ je creuse le ventre, j’enroule, je presse les pieds dans le sol,
 je monte sans cambrer le dos.
 
 J’inspire ici.
-J’expire, je rédéroule : d’abord les côtes, puis les lombaires, puis le sacrum.
+J’expire, je rédéroule : d’abord les dorales, puis les lombaires, puis le sacrum.
 Les jambes bien parallèles — on a moins de stabilité que quand on est au sol, c’est normal.
 Donc justement, on se focus : on travaille sur les lombaires.
 
@@ -113,7 +113,7 @@ Pelvic curl : expire, tu enroules.
 Inspire, tu redéroules le dos.
 Super.
 
-Et tu retrouves tes appuis, toujours à partir du sacrum, colonne neutre et tranquille.
+Et tu retrouves tes appuis（找回稳定支撑点）, toujours à partir du sacrum, colonne neutre et tranquille.
 
 ## 1.3 Tabletop – Single Leg Lift & Pointe vers le bas
 
