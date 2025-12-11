@@ -17,13 +17,13 @@ Voilà, parfait. Jambes bien parallèles, les bras le long du corps.
 Ok, pareil, je vais pousser un tout petit peu par la chose… bien parallèles. Parfaitement.
 
 On prend un petit moment pour soi, pour se reconnecter un petit peu à soi-même, en fonction de sa position.
-L’ancrage du pied dans le sol, bien étalé（脚掌摊开） — étalé jusqu’à la frontière.
+L’ancrage du pied dans le sol, bien étalé — étalé jusqu’à la frontière.
 
 Les jambes bien parallèles, l’ancrage du sacrum juste au-dessus de votre coccyx : sacrum bien ancré dans le rouleau.
-La conscience de cette petite cambrure（弧度） que vous avez dans les lombaires, de la meme cyphose（胸椎自然的“圆背”弧度） qu’on a dans les dorsales(胸椎).
+La conscience de cette petite cambrure（弧度） que vous avez dans les lombaires, de la meme cyphose qu’on a dans les dorsales(胸椎).
 
 Puis le dos doit rester neutre et tranquille, toujours dans nos exercices.
-Ayez conscience aussi des omoplates（肩胛骨） qui **coulent**(下滑) de chaque côté du rouleau ; je les laisse un petit peu **fondre（融化） vers le sol**. 
+Ayez conscience aussi des omoplates（肩胛骨） qui coulent de chaque côté du rouleau ; je les laisse un petit peu **fondre（融化） vers le sol**. 
 
 Puis je vais inspirer, ouvrir les côtes et **imprimer ma colonne dans le rouleau**.
 Et dans l’expiration, sans rien changer à la position de mon bassin, de mon dos, je reconnecte les côtes et je présente le dos.
