@@ -352,7 +352,7 @@ Il faut engager les doigts jusqu’aux épaules.
 Et tu connectes bien tes côtes.
 
 ## 2.2 Bras opposés — Flexion latérale alternée
-
+> 
 	•	Bras au ciel, colonne neutre, côtes connectées
 	•	Le bras droit monte vers la joue, le bras gauche descend vers la hanche
 	•	Mouvement en flexion latérale douce, pas de torsion
@@ -385,7 +385,7 @@ pour poser les bras au sol.
 Super.
 
 ## 3.1 Rotation interne / externe — Mobilité des hanches en Tabletop
-
+> 
 	•	Jambes en tabletop, genoux au-dessus des hanches
 	•	Le dos reste neutre, sacrum bien ancré dans le roller
 	•	Rotation interne : genoux qui s’embrassent, bas de jambe qui s’écartent
@@ -436,7 +436,7 @@ Tu repasses parallèle :
 les jambes toujours tabletop, ouvertes largeur de hanches.
 
 ## 3.2 Abduction — Ouverture de hanche en Tabletop (droite puis gauche)
-
+> 
 	•	Jambes en tabletop, genoux au-dessus des hanches
 	•	Neutre du bassin, sacrum ancré
 	•	Jambe droite s’ouvre en abduction → bas de jambe suit la ligne
@@ -478,8 +478,6 @@ Dernière fois pour la jambe droite :
 abdos, adducteurs…
 et tu stabilises tout au niveau de ta hanche.
 
-⸻
-
 🔸 Même travail à gauche
 
 Même chose à gauche.
@@ -504,7 +502,7 @@ Expire, ramène.
 Tu termines ton dernier.
 
 ## 3.2 Double Abduction — Ouverture des deux jambes en Tabletop
-
+> 
 	•	Les deux jambes en tabletop, parfaitement parallèles
 	•	Ouverture simultanée des deux cuisses (abduction bilatérale)
 	•	Ce n’est pas un papillon : les pieds ne se touchent pas
@@ -549,7 +547,7 @@ Tu presses les jambes l’une contre l’autre.
 Absorbe bien le ventre.
 
 ## 3.3 Tabletop Balance — Levée des mains
-
+> 
 	•	Jambes en tabletop bien serrées l’une contre l’autre
 	•	Bas des jambes parfaitement parallèles au sol
 	•	Sacrum ancré, dos neutre, côtes connectées
@@ -608,7 +606,7 @@ Relâche tout, puis doucement repose tes mains au sol.
 Pas besoin d’aller plus loin — pour les équilibres, c’est déjà très bien.
 
 ## 4.1 Pression main-genou — Opposition & activation des obliques
-
+> 
 	•	Une jambe en tabletop, l’autre pied reste au sol → stabilité
 	•	Main opposée placée contre le genou
 	•	Opposition : main pousse le genou, genou pousse la main
@@ -671,7 +669,7 @@ Presse, presse, presse…
 Inspire — relâche.
 
 ## 4.2 Opposition bras–jambe — Allongement croisé
-
+> 
 	•	Une jambe en tabletop, pied opposé au sol
 	•	Le bras opposé s’élève vers le ciel
 	•	Allongement en diagonale : jambe vers l’avant, bras vers l’arrière
@@ -724,7 +722,7 @@ Puis tu reviens.
 Tu reposes la jambe.
 
 ## 4.3 Opposition bras–jambe — Côté gauche
-
+> 
 	•	Pied droit bien ancré dans le sol
 	•	Jambe gauche en tabletop, genou au-dessus de la hanche
 	•	Bras droit vers le ciel
@@ -809,7 +807,7 @@ allonge…
 et tu reviens.
 
 ## 4.4 Double Leg Lift — Développer les jambes vers le ciel
-
+> 
 	•	Les deux jambes montent en tabletop, puis se développent vers le ciel
 	•	Chercher une longueur maximale dans les jambes
 	•	Les lombaires ne doivent pas s’écraser dans le roller
@@ -869,8 +867,6 @@ expire — descends les jambes.
 Inspire — plie.
 Tu développes — tu restes.
 
-⸻
-
 🔸 Reverse (sens inverse)
 
 On reverse.
@@ -894,7 +890,7 @@ Puis tu redéposes un pied puis l’autre.
 Respire un moment.
 
 ## 5.1 Dérouler du foam roller — Relaxation du dos & retour au sol
-
+> 
 	•	Glisser doucement hors du roller, sans brusquer la colonne
 	•	Sentir le contact du dos au sol : large, lourd, relâché
 	•	Prendre conscience de la “gouttière” laissée par le roller sous la colonne
@@ -928,7 +924,7 @@ pour venir vous asseoir,
 en allongeant la colonne.
 
 ## 5.2 Extension thoracique sur foam roller — Mains derrière la tête
-
+> 
 	•	Foam roller placé sous le point inférieur des omoplates
 	•	Mains derrière la tête, doigts entrelacés
 	•	Coudes ouverts mais pas tirés en arrière
@@ -1019,7 +1015,7 @@ Dernière fois :
 reste dans ton chest lift.
 
 ## 5.3 Chest Lift + Tabletop — Flexion thoracique renforcée
-
+> 
 	•	Foam roller sous les omoplates (même placement que l’extension précédente)
 	•	On reste en chest lift : tête soutenue par les mains, coudes ouverts
 	•	Les deux jambes montent en tabletop, genoux au-dessus des hanches
@@ -1075,8 +1071,6 @@ Encore une fois :
 inspire (dernière),
 expire — tu creuses le ventre, tu reviens.
 
-⸻
-
 🔸 Version avec jambes alternées (préparation du single leg stretch)
 
 Luciana, tu vas pouvoir monter aussi les jambes l’une après l’autre.
@@ -1114,7 +1108,7 @@ Si tu veux reposer un pied au sol,
 tu peux.
 
 ## 5.4 Grand Battement en Chest Lift — Flex / Pointe + montée de la jambe
-
+> 
 	•	Toujours en chest lift : tête soutenue, côtes connectées
 	•	Une jambe reste en tabletop, l’autre s’allonge vers le ciel
 	•	Flex du pied pour monter → Pointe pour descendre
@@ -1188,7 +1182,7 @@ Tu redéposes.
 Pas du tout — on enchaîne avec ce qui vient (le Hundred).
 
 ## 5.5 The Hundred — Version sur Foam Roller
-
+> 
 	•	Toujours en chest lift, sur le roller
 	•	Bras allongés à hauteur de hanches
 	•	Jambes serrées, soit en tabletop soit tendues
@@ -1253,7 +1247,7 @@ tu t’aides des mains
 pour te redresser.
 
 ## 6.1 Footwork sur Foam Roller — Tendons d’Achille & Mobilité de cheville
-
+> 
 	•	Foam roller placé sous les tendons d’Achille
 	•	Les jambes restent parallèles
 	•	On replie les genoux en pressant les talons dans le roller
@@ -1322,7 +1316,7 @@ Jambes parallèles, toujours.
 Ça fait un peu l’arrière des cuisses.
 
 ## 6.2 Pelvic Bridge sur Foam Roller — Fessiers, Ischios & Contrôle
-
+> 
 	•	Pieds en appui sur le foam roller, voûtes plantaires bien ancrées
 	•	Jambes parallèles, genoux fléchis
 	•	Bassin neutre au départ
@@ -1419,7 +1413,7 @@ Tu redéposes tout le dos.
 Tu relâches.
 
 ## 6.3 Spine Stretch Forward — Étirement de la colonne en assise
-
+> 
 	•	Assise sur les ischions, jambes tendues (ou genoux légèrement fléchis si dos raide)
 	•	Pieds en flex, largeur du tapis
 	•	Foam roller tenu entre les mains, bras allongés
@@ -1536,7 +1530,7 @@ Toujours les jambes longues ou fléchies selon ton corps.
 Le dos est long.
 
 ## 6.4 Seated Twist — Rotation de la colonne en assise
-
+> 
 	•	Assise sur les ischions, colonne très longue
 	•	Jambes tendues ou légèrement fléchies selon le confort lombaire
 	•	Bras ouverts en “T”, ou légèrement devant selon consignes
@@ -1597,7 +1591,7 @@ Ici, ce sont vraiment les rotateurs de ta colonne qui s’engagent.
 Tu reviens.
 
 ## 6.5 Swimming Prep sur Foam Roller — Transfert de poids & stabilité
-
+> 
 	•	Position quadrupédie : hanches au-dessus des genoux, épaules au-dessus des poignets
 	•	Foam roller sous un tibia ou sous les genoux selon la variante（这里是 sous un tibia）
 	•	Colonne longue, nuque dans son axe
@@ -1656,8 +1650,6 @@ tu creuses le ventre,
 tu observes les obliques.
 Inspire — relâche.
 
-⸻
-
 🔸 Allongement des bras (sans lever)
 
 Maintenant :
@@ -1677,7 +1669,6 @@ juste en allongeant dans l’axe.
 
 Tu reviens.
 
-⸻
 
 🔸 Allongement des jambes
 
@@ -1707,8 +1698,6 @@ tu gardes les hanches face au sol
 
 Tu reposes.
 
-⸻
-
 🔸 Bras + jambe opposés（Bird-Dog）
 
 Maintenant :
@@ -1735,7 +1724,7 @@ sans vriller.
 Tu redéposes.
 
 ## 6.6 Triceps Push en Quadrupédie — Mini-pompes triceps
-
+> 
 	•	Quadrupédie : épaules au-dessus des poignets, hanches au-dessus des genoux
 	•	Les coudes se plient vers l’arrière, pas sur les côtés
 	•	Poitrine reste ouverte, nuque longue
@@ -1790,7 +1779,7 @@ Inspire — plie ;
 Expire — repousse.
 
 ## 7.1 Side-Lying Oblique Lift — Élévation latérale du buste + jambes
-
+> 
 	•	Allongée sur le côté, en ligne droite :
 	•	jambes tendues
 	•	hanches superposées
@@ -1865,7 +1854,7 @@ monte…
 et reviens.
 
 ## 7.2 Side-Lying Leg Lifts — Jambes en élévation (inside/outside touch)
-
+> 
 	•	Position side-lying en ligne droite
 	•	Le buste reste au sol (après l’exercice précédent)
 	•	La jambe du sol reste ancrée mais active
@@ -1926,7 +1915,7 @@ et tu reposes.
 Génial.
 
 ## 7.3 Prone Back Extension + Foam Roller — Extension thoracique en position ventrale
-
+> 
 	•	Allongée sur le ventre, jambes tendues largeur de hanches
 	•	Foam roller sous les mains, pouces vers le bas au départ
 	•	Bassin en rétroversion légère pour protéger les lombaires
@@ -2013,7 +2002,7 @@ tu reviens,
 tu relâches.
 
 ## 7.4 Side-Lying Oblique Lift — Côté 2
-
+> 
 	•	Même installation que le premier côté
 	•	Jambes tendues, hanches empilées, épaules alignées
 	•	Bras du dessous pressé contre le foam roller → crée la stabilité
@@ -2082,7 +2071,7 @@ Inspire — tu redéposes.
 Parfait.
 
 ## 7.5 Side-Lying Taps — Côté 2
-
+> 
 	•	Jambes tendues, hanches empilées, ceinture bien engagée
 	•	Jambe du ciel → s’élève d’abord à hauteur de hanche
 	•	Expire → la jambe du sol monte pour venir toucher la jambe du ciel
@@ -2136,7 +2125,7 @@ tu reposes.
 Génial.
 
 ## 7.6 Prone Back Extension — Partie 2 : Extensions sur le ventre
-
+> 
 	•	Position ventrale, jambes tendues largeur de hanches
 	•	Pouces tournés vers le bas au départ
 	•	Bassin en rétroversion pour protéger les lombaires
@@ -2208,7 +2197,7 @@ tu redéposes,
 tu relâches.
 
 ## 7.7 Side-Lying Back & Leg Lift — Côté 2
-
+> 
 	•	Jambes tendues, hanches parfaitement empilées
 	•	Taille du côté du sol légèrement “soulevée”
 	•	Paume tournée vers le ciel (selon la variante de ton prof)
@@ -2232,8 +2221,6 @@ les jambes allongées.
 Tu tournes la paume vers le ciel,
 tu engages la taille,
 et c’est parti.
-
-⸻
 
 🟣 Phase 1 : élévation buste + jambes
 
@@ -2270,7 +2257,6 @@ tu engages la taille…
 
 Inspire — tu redéposes.
 
-⸻
 
 🟣 Phase 2 : Taps — jambe du ciel + jambe du sol
 
@@ -2314,7 +2300,7 @@ repose.
 Super.
 
 ## 7.8 Prone Arm Rotation + Back Extension (Swimming Prep)
-
+> 
 	•	Position ventrale, jambes tendues, largeur de hanches
 	•	Bassin en rétroversion pour protéger les lombaires
 	•	Nombril légèrement “aspiré”
@@ -2349,8 +2335,6 @@ Tu rétroverses le bassin,
 tu protèges le bas du dos :
 pubis dans le sol,
 nombril légèrement absorbé.
-
-⸻
 
 🟣 Phase : élévation + rotation des bras
 
@@ -2390,7 +2374,7 @@ reviens,
 réallonge les bras.
 
 ## 8.1 Prone Triceps Press-Back (Swimming Prep)
-
+> 
 	•	Position ventrale
 	•	Épaules au-dessus des poignets
 	•	Poids réparti entre bras et centre
@@ -2445,7 +2429,7 @@ le dos ne se cambre pas,
 les épaules au-dessus des poignets.
 
 ## 8.2 Quadruped + Foam Roller – Opposition Stability
-
+> 
 	•	Genoux sous les hanches, poignets sous les épaules
 	•	Foam roller sous un genou
 	•	Le poids du corps reste au centre
@@ -2472,7 +2456,6 @@ les hanches au-dessus des genoux,
 les épaules au-dessus des poignets,
 la nuque dans le prolongement de ta colonne.
 
-⸻
 
 🟣 Phase 1 : Pression croisée（交叉压点）
 
@@ -2504,9 +2487,8 @@ Tu creuses légèrement le ventre.
 
 Inspire — relâche.
 
-⸻
 
-🟣 Phase 2 : bras qui s’allonge（手臂前伸）
+🟣 Phase 2 : bras qui s’allonge
 
 Maintenant tu vas allonger le bras droit vers l’avant,
 simplement en le glissant,
@@ -2521,7 +2503,6 @@ vers l’avant.
 
 Tu reviens.
 
-⸻
 
 🟣 Phase 3 : jambe qui s’allonge（腿后伸）
 
@@ -2547,9 +2528,8 @@ sans cambrer dans les lombaires.
 
 Repose.
 
-⸻
 
-🟣 Phase 4 : bras + jambe opposés（对侧手脚延伸）
+🟣 Phase 4 : bras + jambe opposés
 
 Tu presses la main droite + le genou gauche
 et tu allonges bras gauche + jambe droite
@@ -2574,15 +2554,15 @@ Repose.
 
 
 ## 8.3 Grand Swimming — Version complète (Flutter kicks + extension)
-
-• Position ventrale, jambes allongées largeur de hanches
-• Bassin en rétroversion légère pour protéger les lombaires
-• Allonger le sommet du crâne et la pointe des pieds (double opposition)
-• Élévation du buste initiée par la colonne thoracique, jamais par les lombaires
-• Jambes tendues, battements petits et rapides（flutter kicks）
-• Garder les hanches stables, sans vriller
-• Respiration fluide : inspirer sur 4 temps, expirer sur 4 temps
-• Objectif：chaîne postérieure + stabilité + coordination
+> 
+	• Position ventrale, jambes allongées largeur de hanches
+    • Bassin en rétroversion légère pour protéger les lombaires
+    • Allonger le sommet du crâne et la pointe des pieds (double opposition)
+    • Élévation du buste initiée par la colonne thoracique, jamais par les lombaires
+    • Jambes tendues, battements petits et rapides（flutter kicks）
+    • Garder les hanches stables, sans vriller
+    • Respiration fluide : inspirer sur 4 temps, expirer sur 4 temps
+    • Objectif：chaîne postérieure + stabilité + coordination
 
 Tu restes sur le ventre,
 les jambes longues, largeur de hanches,
@@ -2640,12 +2620,12 @@ Super.
 
 
 ## 8.4 Child’s Pose — Étirement final (repos, colonne & respiration)
-
-• Position en “child’s pose”, fessiers vers les talons
-• Bras allongés devant, ou coudes au sol si épaules sensibles
-• Étirement de la colonne dorsale + ouverture du bas du dos
-• Respiration large dans les côtes et les lombaires
-• Objectif：décompression, retour au calme, relâchement profond
+> 
+	• Position en “child’s pose”, fessiers vers les talons
+    • Bras allongés devant, ou coudes au sol si épaules sensibles
+    • Étirement de la colonne dorsale + ouverture du bas du dos
+    • Respiration large dans les côtes et les lombaires
+    • Objectif：décompression, retour au calme, relâchement profond
 
 Tu vas repousser le sol avec les mains,
 ramener les fessiers vers les talons
@@ -2671,13 +2651,13 @@ et longue expiration.
 Très bien.
 
 ## 8.5 Lateral Stretch — Ouverture du flanc & des intercostales
-
-• À genoux ou assise sur les talons
-• Une main au sol / l’autre bras s’allonge vers le plafond
-• Flexion latérale douce, sans écraser la taille
-• Ouvrir l’espace entre les côtes
-• Respiration dans le flanc (intercostales)
-• Sans effondrer la poitrine
+> 
+	• À genoux ou assise sur les talons
+    • Une main au sol / l’autre bras s’allonge vers le plafond
+    • Flexion latérale douce, sans écraser la taille
+    • Ouvrir l’espace entre les côtes
+    • Respiration dans le flanc (intercostales)
+    • Sans effondrer la poitrine
 
 Tu reviens t’asseoir,
 ou tu restes à genoux selon ce qui est confortable pour toi.
@@ -2709,13 +2689,13 @@ Très bien.
 
 
 ## 8.6 Final Breathing — Respiration d’intégration & recentrage
-
-• Assise sur les ischions ou talons
-• Colonne longue, nuque dans l’axe
-• Paumes ouvertes sur les cuisses
-• Inspirer pour élargir la cage thoracique
-• Expirer pour reconnecter le centre
-• Retour au calme & intégration du travail
+> 
+	• Assise sur les ischions ou talons
+    • Colonne longue, nuque dans l’axe
+    • Paumes ouvertes sur les cuisses
+    • Inspirer pour élargir la cage thoracique
+    • Expirer pour reconnecter le centre
+    • Retour au calme & intégration du travail
 
 Tu t’installes assise,
 le dos long,
