@@ -283,7 +283,7 @@ le dos neutre comme d’habitude.
 
 Tu vas monter les bras au ciel,
 les paumes face à face,
-les poignets au-dessus des épaules.
+les poignets（手腕） au-dessus des épaules.
 
 Et de là, tu vas chercher un peu de mobilité dans tes omoplates.
 Tourne les paumes face à face.
@@ -302,8 +302,8 @@ en gardant les bras tout à fait longs et levés.
 Tu ne baisses pas les bras.
 
 Donc :
-j’inspire → je tire les doigts vers le ciel (protraction),
-j’expire → je rétracte les omoplates (rétraction).
+j’inspire → je tire les doigts vers le ciel (protraction 肩胛上提),
+j’expire → je rétracte les omoplates (rétraction 夹背).
 
 Là : paumes face à face.
 Tu tires le bout des doigts comme si quelqu’un t’attrapait par les poignets
@@ -349,7 +349,7 @@ Mais cherche l’allongement :
 si tu n’es pas engagé et que tu fais juste ça, ça ne sert à rien.
 Il faut engager les doigts jusqu’aux épaules.
 
-Et tu connectes bien tes côtes.
+Et tu connectes bien tes côtes （把肋骨合上、收紧）.
 
 ## 2.2 Bras opposés — Flexion latérale alternée
 > 
