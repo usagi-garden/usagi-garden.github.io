@@ -20,7 +20,7 @@ On prend un petit moment pour soi, pour se reconnecter un petit peu à soi-même
 L’ancrage du pied dans le sol, bien étalé — étalé jusqu’à la frontière.
 
 Les jambes bien parallèles, l’ancrage du sacrum juste au-dessus de votre coccyx : sacrum bien ancré dans le rouleau.
-La conscience de cette petite cambrure（弧度） que vous avez dans les lombaires, de la meme cyphose qu’on a dans les dorsales(胸椎).
+La conscience de cette petite cambrure que vous avez dans les lombaires, de la meme cyphose qu’on a dans les dorsales(胸椎).
 
 Puis le dos doit rester neutre et tranquille, toujours dans nos exercices.
 Ayez conscience aussi des omoplates（肩胛骨） qui coulent de chaque côté du rouleau ; je les laisse un petit peu **fondre（融化） vers le sol**. 
