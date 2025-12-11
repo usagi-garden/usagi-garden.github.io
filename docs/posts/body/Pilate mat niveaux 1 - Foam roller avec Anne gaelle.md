@@ -2573,6 +2573,177 @@ puis une petite élévation.
 Repose.
 
 
+## 8.3 Grand Swimming — Version complète (Flutter kicks + extension)
+
+• Position ventrale, jambes allongées largeur de hanches
+• Bassin en rétroversion légère pour protéger les lombaires
+• Allonger le sommet du crâne et la pointe des pieds (double opposition)
+• Élévation du buste initiée par la colonne thoracique, jamais par les lombaires
+• Jambes tendues, battements petits et rapides（flutter kicks）
+• Garder les hanches stables, sans vriller
+• Respiration fluide : inspirer sur 4 temps, expirer sur 4 temps
+• Objectif：chaîne postérieure + stabilité + coordination
+
+Tu restes sur le ventre,
+les jambes longues, largeur de hanches,
+les pieds en pointe.
+
+Tu rétroverses le bassin,
+tu protèges les lombaires,
+tu allonges ta colonne comme si tu voulais toucher
+le mur devant toi avec le sommet de ta tête,
+et le mur derrière toi avec tes orteils.
+
+Tu inspires ici.
+
+Dans l’expiration,
+tu élèves un peu la tête et le haut du buste —
+tout petit, pas trop haut,
+juste pour activer la ligne du dos.
+
+Les jambes restent longues.
+
+Maintenant tu vas commencer les petits battements —
+les flutter kicks.
+
+Tu engages l’arrière des cuisses,
+tu engages les fessiers,
+et tu alternes les jambes :
+
+droite / gauche / droite / gauche…
+
+Ça peut être très petit,
+mais très contrôlé.
+
+Tu continues de respirer :
+inspire sur quatre temps…
+expire sur quatre temps…
+
+Ne cambre pas,
+garde toujours la rétroversion du bassin
+pour protéger ton bas du dos.
+
+Encore —
+allonge tes jambes,
+garde les hanches stables,
+monte un tout petit peu plus le haut du dos
+en gardant la nuque longue.
+
+Continue à nager,
+chercher la longueur.
+
+Et tu relâches complètement.
+Repose la tête sur une joue.
+Respire.
+
+Super.
+
+
+## 8.4 Child’s Pose — Étirement final (repos, colonne & respiration)
+
+• Position en “child’s pose”, fessiers vers les talons
+• Bras allongés devant, ou coudes au sol si épaules sensibles
+• Étirement de la colonne dorsale + ouverture du bas du dos
+• Respiration large dans les côtes et les lombaires
+• Objectif：décompression, retour au calme, relâchement profond
+
+Tu vas repousser le sol avec les mains,
+ramener les fessiers vers les talons
+et venir dans ton child’s pose.
+
+Les bras s’allongent devant,
+les paumes au sol,
+et tu relâches la tête.
+
+Respire ici,
+dans le bas du dos,
+dans les côtes.
+
+Laisse les fessiers descendre doucement vers tes talons,
+sans forcer.
+
+Allonge ton souffle.
+Relâche les épaules.
+
+Encore une profonde inspiration,
+et longue expiration.
+
+Très bien.
+
+## 8.5 Lateral Stretch — Ouverture du flanc & des intercostales
+
+• À genoux ou assise sur les talons
+• Une main au sol / l’autre bras s’allonge vers le plafond
+• Flexion latérale douce, sans écraser la taille
+• Ouvrir l’espace entre les côtes
+• Respiration dans le flanc (intercostales)
+• Sans effondrer la poitrine
+
+Tu reviens t’asseoir,
+ou tu restes à genoux selon ce qui est confortable pour toi.
+
+Tu places une main au sol,
+et tu montes l’autre bras vers le ciel.
+
+Tu inspires ici,
+et dans l’expiration tu vas chercher une flexion latérale,
+en ouvrant le côté du buste.
+
+Ne t’écrase pas dans la taille du bas —
+pense à t’allonger plutôt qu’à te pencher.
+
+Respire dans tout l’espace des côtes.
+Ouvre, ouvre, ouvre.
+
+Tu reviens au centre.
+
+Même chose de l’autre côté :
+monte le bras,
+allonge…
+expire — flexion latérale du tronc.
+Respire dans le flanc.
+
+Tu reviens au centre.
+
+Très bien.
+
+
+## 8.6 Final Breathing — Respiration d’intégration & recentrage
+
+• Assise sur les ischions ou talons
+• Colonne longue, nuque dans l’axe
+• Paumes ouvertes sur les cuisses
+• Inspirer pour élargir la cage thoracique
+• Expirer pour reconnecter le centre
+• Retour au calme & intégration du travail
+
+Tu t’installes assise,
+le dos long,
+les mains sur les cuisses.
+
+Tu inspires par le nez,
+tu ouvres tes côtes,
+tu sens tout l’espace dans la cage thoracique.
+
+Dans l’expiration,
+tu reconnectes les côtes,
+tu engages un petit peu ton centre,
+tu relâches les épaules.
+
+Encore deux fois :
+une grande inspiration,
+et longue expiration.
+
+Dernière —
+inspire, ouvre le buste,
+expire, relâche tout.
+
+Tu peux relâcher les épaules,
+resserrer légèrement ton centre,
+et retrouver une respiration naturelle.
+
+Bravo.
+C’est terminé pour aujourd’hui.
 
 
 
