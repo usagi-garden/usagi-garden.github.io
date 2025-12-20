@@ -1,4 +1,4 @@
-# Pilate mat niveaux 1 - Foam roller avec Anne gaelle
+# Mat 1 - Foam roller avec Anne gaelle
 
 ## 1.1 Warm-up — Respiration & Ancrage
 

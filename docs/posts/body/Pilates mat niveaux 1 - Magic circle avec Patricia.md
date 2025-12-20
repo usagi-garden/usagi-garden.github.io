@@ -1,4 +1,4 @@
-# Pilates mat niveaux 1 - Magic circle avec Patricia
+# Mat 1 - Magic circle avec Patricia
 
 ## 1.1 Mise en place — Magic Circle
 

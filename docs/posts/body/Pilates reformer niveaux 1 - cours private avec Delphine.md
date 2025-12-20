@@ -1,4 +1,4 @@
-# Pilates reformer niveaux 1 - cours private avec Delphine
+# Reformer 1 - cours private avec Delphine
 
 ## 1.1 Installation & rappel sur la machine
 
