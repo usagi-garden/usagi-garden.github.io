@@ -15,7 +15,7 @@
 </div>
 
 <!-- Body -->
-<div class="usagi-card" onclick="location.href='posts/body/Pilate mat niveaux 1 - Foam roller avec Anne gaelle/'">
+<div class="usagi-card" onclick="location.href='posts/body/Décortiquer le pilate reformer/'">
     <img class="usagi-icon" src="/assets/icons/body.svg">
     <h3>Body</h3>
     <p>脚踩缝纫机…</p>
