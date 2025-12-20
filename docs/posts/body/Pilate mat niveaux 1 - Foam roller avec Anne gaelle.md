@@ -427,7 +427,7 @@ Tu articules vraiment dans tes hanches
 en restant stable.
 
 On engage tout le centre.
-Essaye de faire vaciller le moins possible ton dos.
+Essaye de faire vaciller（晃动） le moins possible ton dos.
 
 Dernière fois : vers l’intérieur,
 puis vers l’extérieur.

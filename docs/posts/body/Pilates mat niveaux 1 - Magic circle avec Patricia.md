@@ -1,8 +1,8 @@
-# Pilates mat niveaux 1 - Magic circle
+# Pilates mat niveaux 1 - Magic circle avec Patricia
 
 ## 1.1 Mise en place — Magic Circle
 
-Alors, donc on va travailler ce soir avec le Magic Circle. Oulala ! Oulala ! Ici, on va l'installer pour commencer entre à l'intérieur des genoux, haut de cuisse, pas sur les os ici qu'on a juste au niveau des genoux, un tout petit peu au-dessus, là où il y a de la chair, ou plutôt vers le bas de la cuisse. Ok ? Vous vous aidez des mains pour vous dérouler au sol, vous rapprochez les talons de vos fesses et puis là vous essayez de ramener les talons, les pieds dans le prolongement de vos ischions.
+Alors, donc on va travailler ce soir avec le Magic Circle. Ici, on va l'installer pour commencer entre à l'intérieur des genoux, haut de cuisse, pas sur les os ici qu'on a juste au niveau des genoux, un tout petit peu au-dessus, là où il y a de la chair, ou plutôt vers le bas de la cuisse. Ok ? Vous vous aidez des mains pour vous dérouler au sol, vous rapprochez les talons de vos fesses et puis là vous essayez de ramener les talons, les pieds dans le prolongement de vos ischions.
 
 
 Les jambes, les genoux eux sont plus écartés, c'est normal parce qu'il y a le cercle. Laisse tes genoux un peu s'écarter, mais bien, laisse les genoux s'écarter, oui, mais rapproche tes pieds. Les pieds sont prêts ou un peu moins, voilà, et les genoux écartés.
