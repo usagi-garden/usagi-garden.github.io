@@ -22,7 +22,7 @@
 </div>
 
 <!-- Mind -->
-<div class="usagi-card" onclick="location.href='posts/mind/俄狄浦斯情结/'">
+<div class="usagi-card" onclick="location.href='posts/mind/暗黑安徒生 - 一个顺着你的欲望运转的世界有多可怕？/'">
     <img class="usagi-icon" src="/assets/icons/mind.svg">
     <h3>Mind</h3>
     <p>灵魂下午茶…</p>
