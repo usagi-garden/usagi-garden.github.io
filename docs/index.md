@@ -1,7 +1,7 @@
 # :sparkles:
 
 !!! note
-    this rabbit is seriously learning Pilates.
+    This rabbit wants to make something.
 
 <div class="usagi-home">
 
