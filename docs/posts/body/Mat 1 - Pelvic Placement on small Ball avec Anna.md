@@ -1,4 +1,4 @@
-# Mat 1 - Pelvic Placement on small Ball avec Anna gaelle
+# Mat 1 - Pelvic Placement on small Ball avec Anna
 
 ### 1.1 Mise en place — Placement initial
 （Objectif : Trouver la stabilité du sacrum sur le ballon + activer la respiration latérale 侧向呼吸.）
